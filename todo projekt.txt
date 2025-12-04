@@ -1,0 +1,23 @@
+todo projekt
+------------
+
+
+validation popup after pushing solve -- in case is invalid
+
+brusina button
+
+
+zero to empty funkce // abych nemusela opakovat ty codelines
+
+skalovani s velikosti okna
+
+timing?
+
+more sample puzzles
+
+
+
+
+
+
+
